@@ -23,7 +23,7 @@ This folder contains the implementation of the website fingerprinting countermea
 
 ### doc2vec_model
 
-This folder contains the training and inference code for the doc2vec model, a machine learning model that represents sequences of text as fixed length vectors.  Using these vectors allows for the calculation similarity between two queries, which can be used as an evaluation of the performance of the attack, i.e., if an adversary does not predict the exact query, we can use the distance between the vectorized prediction and the vectorized query as a performance metric for the attack.
+This folder contains the training and inference code for the doc2vec model, a machine learning model that represents sequences of text as fixed length vectors.  Using these vectors allows for calculating the similarity between two queries, which can be used as an evaluation of the performance of the attack, i.e., if an adversary does not predict the exact query, we can use the distance between the vectorized prediction and the vectorized query as a performance metric for the attack.
 
 ### pcap2csv
 
