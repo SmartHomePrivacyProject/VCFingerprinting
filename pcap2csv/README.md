@@ -1,5 +1,5 @@
-# NT2vec
-Produce vectors from network traffic capture files.
+# pcap2csv
+Produce trace files from network traffic capture files.
 
 **Usage**  
 The pcap_2_csv script takes a pcap file and IP address as the first and second arguments.  The script runs a function to 
@@ -12,8 +12,8 @@ python3 pcap_2_csv.py <filename.pcap> <device ipv4 address>
 ```
 The resulting CSV files will be saved in the 'csv/' directory with the name \<filename_n.csv> for n number of traces.
 
-*NOTE*: Currently the burst detection function only works with shorter traffic bursts. At this point we should make sure
-we do cursory checks of the burst ranges and compare them to trace files to make sure burst detection is working as intended.
+*NOTE*: Currently the burst detection function only works with shorter traffic bursts. At this point you should make sure
+you do cursory checks of the burst ranges and compare them to trace files to make sure burst detection is working as intended.
 
 **Dependencies**  
 Python 3.6  
