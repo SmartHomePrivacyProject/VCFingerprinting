@@ -19,7 +19,7 @@ The ```data``` folder contains the following:
 
 ### BuFLO_defense
 
-This folder contains the implementation of the website fingerprinting countermeasure BuFLO (Buffered  Fixed-Length  Obfuscation).  The is used to assess the performance of the attack when website fingerprinting defenses are in place.
+This folder contains the implementation of the website fingerprinting countermeasure BuFLO (Buffered  Fixed-Length  Obfuscation).  This is used to assess the performance of the attack when website fingerprinting defenses are in place.
 
 ### doc2vec_model
 
