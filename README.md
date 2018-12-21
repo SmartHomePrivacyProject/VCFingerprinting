@@ -37,8 +37,3 @@ This folder contains four traffic analysis algorithms used in the attack.
 
 See the REAME files in each folder for instructions on usage.
 
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
