@@ -4,7 +4,7 @@ This repository contains the source code and data for the Voice Command Fingerpr
 
 **The dataset and code are for research purposes only**. The results of this study are published in the following paper: 
 
-Sean Kennedy, Haipeng Li, Chenggang Wang, Hao Liu, Boyang Wang, Wenhai Sun, *“I Can Here Your Alex: Voice Command Fingerprinting Attacks on Smart Home Speakers,”* IEEE International Conference on Communication  and Network Security (**IEEE CNS 2019**), June 10-12, 2019. (The first three authors contribute equally in this paper) 
+Sean Kennedy, Haipeng Li, Chenggang Wang, Hao Liu, Boyang Wang, Wenhai Sun, *“I Can Here Your Alex: Voice Command Fingerprinting Attacks on Smart Home Speakers,”* IEEE Conference on Communications and Network Security (**IEEE CNS 2019**), June 10-12, 2019. (The first three authors contribute equally in this paper) 
 
 ## Content
 
