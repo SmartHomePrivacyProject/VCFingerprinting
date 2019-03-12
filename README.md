@@ -1,4 +1,10 @@
 # Voice Command Fingerprinting Attack
+
+The dataset and code are for research purposes only. 
+
+Reference:
+Sean Kennedy, Haipeng Li, Chenggang Wang, Hao Liu, Boyang Wang, Wenhai Sun, “I Can Here Your Alex: Voice Command Fingerprinting Attacks on Smart Home Speakers,” IEEE International Conference on Communication  and Network Security (CNS), June 10-12, 2019. (The first three authors contribute equally in this paper) 
+
 This repository contains the source code and data for the Voice Command Fingerprinting Attack.  The attack is a privacy leakage attack that allows a passive adversary to infer the activity of a smart speaker user by eavesdropping encrypted traffic between the smart speaker and the smart speaker's cloud services.
 
 ## Content
